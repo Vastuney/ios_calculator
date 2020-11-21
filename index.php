@@ -13,6 +13,8 @@
   </head>
   <body>
     <main>
+      <h1><a href="https://github.com/Vastuney/ios_calculator">Kalkulator IOS</a></h1>
+      <h2><a href="https://github.com/Vastuney/ios_calculator">Pliki</a></h2>
       <div id="calculator">
         <div class="main_calculations">
           <p id="calculations">0</p>
