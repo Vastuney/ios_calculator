@@ -4,6 +4,16 @@ main {
   background-color:#fff;
   font-family: 'Poppins', sans-serif;
 }
+main > h1 {
+  font-size:40px;
+  color:#000;
+  font-weight: bold;
+  margin-top:40px;
+}
+main > h2 {
+  font-size:20px;
+  color:#000;
+}
 #calculator {
   margin: 0;
   position: absolute;
